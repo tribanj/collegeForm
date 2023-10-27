@@ -1,0 +1,1 @@
+export const PORT= "https://university-details-form-git-main-tribhuwans-projects.vercel.app/" 
