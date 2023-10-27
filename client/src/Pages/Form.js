@@ -141,7 +141,7 @@ const Form = () => {
               />
               <input
                 type="text"
-                placeholder="Renking"
+                placeholder="Ranking"
                 value={renk}
                 onChange={(e) => setRenk(e.target.value)}
                 required
