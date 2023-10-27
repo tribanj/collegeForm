@@ -190,7 +190,7 @@ const Form = () => {
               />
               <input
                 type="text"
-                placeholder="Cources details"
+                placeholder="University Address"
                 value={courceDetails}
                 onChange={(e) => setCourceDetails(e.target.value)}
                 required
